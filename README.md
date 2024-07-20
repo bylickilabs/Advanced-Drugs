@@ -55,3 +55,7 @@ Coords.: 353.6696, 4328.7676, 48.7819, 154.6378
 - ✅ mapbuilder
 - ✅ FiveM MySQL ASync
 ```
+
+Spawnable Attraction works 'not' with the 
+|[Retronix Development](https://rtx.tebex.io/package/5722825)|
+|---|
