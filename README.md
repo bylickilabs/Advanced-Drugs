@@ -1,5 +1,6 @@
-|![1](https://github.com/user-attachments/assets/91482ba9-7053-4113-965e-bc73263d09fa)|
-|---|
+|![1](https://github.com/user-attachments/assets/91482ba9-7053-4113-965e-bc73263d09fa)|![2](https://github.com/user-attachments/assets/f96fee97-3bd7-49a7-895e-98610153989f)|
+|---|---|
+
 
 ### Advanced Drug System, based on the old ESX_Drugs.
 ```yarn
