@@ -9,7 +9,7 @@
 ---
 
 ### Our custom_mlo will be available shortly. This MLO refers to the 'spawnable attraction'
-- ✅|[Retronix Development](https://rtx.tebex.io/package/6171351)|
+|[Retronix Development](https://rtx.tebex.io/package/6171351)|
 |---|
 
 
