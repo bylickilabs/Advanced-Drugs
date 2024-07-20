@@ -27,7 +27,6 @@ and the corresponding Colored Weed V2 prop.
 ```
 
 ## Supports in the /client/main.lua
-```yarn
 - ✅ Value that is taken and given!
 ---
 
