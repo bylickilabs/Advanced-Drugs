@@ -14,14 +14,14 @@ and the corresponding Colored Weend V2 prop.
 |---|---|
 ---
 
-### Further settings options!
+### Supports in the /client/weed.lua
 ```yarn
 - ✅ Cannabis quantity that is pulled off!
-- ✅ 
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅  
+- ✅ Time that needs to be processed!
+- ✅ Time until you get learned! 2000 = 2 seconds
+- ✅ Waiting after harvesting! 1500 = 1.5 seconds
+- ✅ Number of plants that are spawned at the same time! 10 = 1
+- ✅ math.random(-1, 1)    								-- (-90, 90) Radius
+- ✅ math.random(-1, 1)    								-- (-90, 90) Radius
 ```
 
