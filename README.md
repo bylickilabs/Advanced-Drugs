@@ -25,3 +25,6 @@ and the corresponding Colored Weend V2 prop.
 - ✅ math.random(-1, 1) -- (-90, 90) Radius
 ```
 
+## Supports in the /client/main.lua
+```yarn
+- ✅ Value that is taken and given!
