@@ -8,7 +8,7 @@
 - ✅ Enter your desired language in the config.lua, German is set as standard.
 ```
 > License now possible!
----
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 # Supports in the /client/weed.lua
 ```yarn
@@ -25,7 +25,7 @@
 ```yarn
 - ✅ Value that is taken and given!
 ```
----
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 |Server prints are deactivated in the /server/main.lua for 'en' |
 |---|
@@ -39,16 +39,15 @@ and the corresponding Colored Weed V2 prop.
 
 |[Colored Weed V2](https://bzzz.tebex.io/package/5954200)|![bzzz_prop](https://github.com/user-attachments/assets/1bb62823-2bd6-433a-a937-661f00995bbc)|
 |---|---|
----
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 ```yarn
 Coords.: 239.3248, 4286.2056, 33.1099, 176.3986
 Coords.: 353.6696, 4328.7676, 48.7819, 154.6378
 ```
 
----
+![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
----
 ### Our custom_mlo will be available shortly. This MLO refers to the 'spawnable attraction'
 |[Retronix Development](https://rtx.tebex.io/package/6171351)|
 |---|
