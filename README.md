@@ -32,5 +32,5 @@ and the corresponding Colored Weed V2 prop.
 ```
 ---
 
-|Server prints are deactivated in the /server/main.lua for en.|
+|Server prints are deactivated in the /server/main.lua for 'en' |
 |---|
