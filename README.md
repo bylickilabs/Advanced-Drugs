@@ -43,11 +43,15 @@ Coords.: 353.6696, 4328.7676, 48.7819, 154.6378
 ```
 
 ---
+
+---
 ### Our custom_mlo will be available shortly. This MLO refers to the 'spawnable attraction'
 |[Retronix Development](https://rtx.tebex.io/package/6171351)|
 |---|
 
 # Dependencies.:
 ```yarn
+- ✅ ESX Framework
 - ✅ mapbuilder
+- ✅ FiveM MySQL ASync
 ```
