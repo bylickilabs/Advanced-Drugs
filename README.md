@@ -1,5 +1,5 @@
 Advanced Drug System, based on the old ESX_Drugs.
-Available in
+Available in [de, en]
 
 > License now possible!
 ---
