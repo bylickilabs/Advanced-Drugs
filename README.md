@@ -6,7 +6,7 @@ Advanced Drug System, based on the old ESX_Drugs.
 ### Optional
 ```yarn
 The optional availability is deactivated in the FXMANIFEST! 
-The required standard prop can be deactivated at any time in the ...
+The required standard prop can be deactivated at any time in the /client/weed.lua
 and the corresponding Colored Weend V2 prop.
 ```
 
