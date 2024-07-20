@@ -39,6 +39,7 @@ and the corresponding Colored Weed V2 prop.
 
 |[Colored Weed V2](https://bzzz.tebex.io/package/5954200)|![bzzz_prop](https://github.com/user-attachments/assets/1bb62823-2bd6-433a-a937-661f00995bbc)|
 |---|---|
+
 ![line](https://github.com/bylickilabs/bylickilabs/assets/109308073/bfd77a60-d426-4470-b417-fdbab0166188) 
 
 ```yarn
