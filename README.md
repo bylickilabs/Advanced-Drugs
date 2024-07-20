@@ -1,5 +1,3 @@
-
-
 ### Advanced Drug System, based on the old ESX_Drugs.
 ```yarn
 - ✅ Available in [de, en]
