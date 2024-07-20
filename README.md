@@ -1,7 +1,7 @@
 ### Advanced Drug System, based on the old ESX_Drugs.
 ```yarn
 - ✅ Available in [de, en]
-- ✅Enter your desired language in the config.lua, German is set as standard.
+- ✅ Enter your desired language in the config.lua, German is set as standard.
 ```
 > License now possible!
 ---
