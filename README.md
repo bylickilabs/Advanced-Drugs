@@ -1,3 +1,5 @@
+
+
 ### Advanced Drug System, based on the old ESX_Drugs.
 ```yarn
 - ✅ Available in [de, en]
@@ -6,7 +8,12 @@
 > License now possible!
 ---
 
-### Supports in the /client/weed.lua
+### Our custom_mlo will be available shortly. This MLO refers to the 'spawnable attraction'
+```yarn
+- ✅ ![Retronix Development](https://rtx.tebex.io/package/6171351]
+```
+
+# Supports in the /client/weed.lua
 ```yarn
 - ✅ Cannabis quantity that is pulled off!
 - ✅ Time that needs to be processed!
@@ -17,7 +24,7 @@
 - ✅ math.random(-1, 1) -- (-90, 90) Radius
 ```
 
-## Supports in the /client/main.lua
+# Supports in the /client/main.lua
 ```yarn
 - ✅ Value that is taken and given!
 ```
@@ -26,7 +33,7 @@
 |Server prints are deactivated in the /server/main.lua for 'en' |
 |---|
 
-### Optional
+# Optional
 ```yarn
 The optional availability is deactivated in the FXMANIFEST! 
 The required standard prop can be deactivated at any time in the /client/weed.lua
