@@ -37,12 +37,10 @@ and the corresponding Colored Weed V2 prop.
 |---|---|
 ---
 
-| Coords.: 239.3248, 4286.2056, 33.1099, 176.3986|
-|---|
-![license](https://github.com/user-attachments/assets/6b651b77-6529-442d-bfb6-a08b74ba528b)
+| Coords.: 239.3248, 4286.2056, 33.1099, 176.3986|![license](https://github.com/user-attachments/assets/6b651b77-6529-442d-bfb6-a08b74ba528b)|
+|---|---|
 ---
 
-| Coords.: 353.6696, 4328.7676, 48.7819, 154.6378|
-|---|
-![to harvest](https://github.com/user-attachments/assets/1bb62823-2bd6-433a-a937-661f00995bbc)|
+| Coords.: 353.6696, 4328.7676, 48.7819, 154.6378|![to harvest](https://github.com/user-attachments/assets/1bb62823-2bd6-433a-a937-661f00995bbc)|
+|---|---|
 ---
