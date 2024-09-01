@@ -18,7 +18,6 @@
 - ✅ Waiting after harvesting! 1500 = 1.5 seconds
 - ✅ Number of plants that are spawned at the same time! 10 = 1
 - ✅ math.random(-1, 1) -- (-90, 90) Radius
-- ✅ math.random(-1, 1) -- (-90, 90) Radius
 ```
 
 # Supports in the /client/main.lua
