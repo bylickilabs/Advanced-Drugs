@@ -28,7 +28,7 @@ AddEventHandler('esx_drugs:sellDrug', function(itemName, amount)
 
 	if type(amount) ~= 'number' or type(itemName) ~= 'string' then
 		print(('Drogen: %s Verkauf von ungültigem Typ!'):format(xPlayer.identifier))
-	 -- print(('Drugs: %s sale of invalid type!'):format(xPlayer.identifier))
+	 	-- print(('Drugs: %s sale of invalid type!'):format(xPlayer.identifier))
 	 
 		FoundExploiter(xPlayer.source,'SellDrugs Event Trigger')
 		return
@@ -41,7 +41,7 @@ AddEventHandler('esx_drugs:sellDrug', function(itemName, amount)
 	end
 	if amount < 0 then
 		print(('Drogen: %s versuchte einen Minusbetrag zu verkaufen!'):format(xPlayer.identifier))
-     -- print(('Drogen: %s versuchte einen Minusbetrag zu verkaufen!'):format(xPlayer.identifier))
+     		-- print(('Drogen: %s versuchte einen Minusbetrag zu verkaufen!'):format(xPlayer.identifier))
 	 
 		return
 	end
@@ -58,7 +58,7 @@ AddEventHandler('esx_drugs:sellDrug', function(itemName, amount)
 	
 	else
 		xPlayer.addMoney(price, "Drogen verkauft")
-	 -- xPlayer.addMoney(price, "Drugs sold")
+	 	-- xPlayer.addMoney(price, "Drugs sold")
 	 
 	end
 
@@ -87,7 +87,7 @@ ESX.RegisterServerCallback('esx_drugs:buyLicense', function(source, cb, licenseN
 		end
 	else
 		print(('Drogen: %s versuchte, eine ungültige Lizenz zu kaufen!'):format(xPlayer.identifier))
-	 -- print(('Drugs: %s tried to buy an invalid license!'):format(xPlayer.identifier))		
+	 	-- print(('Drugs: %s tried to buy an invalid license!'):format(xPlayer.identifier))		
 		cb(false)
 	end
 end)
@@ -177,7 +177,7 @@ AddEventHandler('esx_drugs:processCannabis', function()
 		end
 	else
 		print(('Drogen: %s versucht, die verarbeitung auszunutzen!'):format(GetPlayerIdentifiers(source)[1]))
-	 --	print(('Drugs: %s Try to take advantage of the processing!'):format(GetPlayerIdentifiers(source)[1]))
+	 	-- print(('Drugs: %s Try to take advantage of the processing!'):format(GetPlayerIdentifiers(source)[1]))
 	end
 end)
 
