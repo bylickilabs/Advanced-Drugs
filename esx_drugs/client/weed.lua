@@ -49,10 +49,10 @@ function ProcessWeed(xCannabis)
 	isProcessing = true
 	ESX.ShowNotification(TranslateCap('weed_processingstarted'))
   TriggerServerEvent('esx_drugs:processCannabis')
-	if(xCannabis <= 5) then														-- Cannabis quantity that is pulled off!
+	if(xCannabis <= 5) then												-- Cannabis quantity that is pulled off!
 		xCannabis = 0
 	end
-  local timeLeft = (Config.Delays.WeedProcessing * xCannabis) / 10000			-- Time that needs to be processed!
+  local timeLeft = (Config.Delays.WeedProcessing * xCannabis) / 10000							-- Time that needs to be processed!
 	local playerPed = PlayerPedId()
 
 	while timeLeft > 0 do
@@ -99,7 +99,7 @@ CreateThread(function()
 
 						Wait(10000) 								-- Time until you get learned! 2000 = 2 seconds
 						ClearPedTasks(playerPed)
-						Wait(1000) 									-- Waiting after harvesting! 1500 = 1.5 seconds
+						Wait(1000) 								-- Waiting after harvesting! 1500 = 1.5 seconds
 		
 						ESX.Game.DeleteObject(nearbyObject)
 		
@@ -128,11 +128,11 @@ AddEventHandler('onResourceStop', function(resource)
 end)
 
 function SpawnWeedPlants()
-	while spawnedWeeds < 10 do 													-- Number of plants that are spawned at the same time! </> 10 = 1 Plant | 100 = 10 Plants ...
+	while spawnedWeeds < 10 do 											-- Number of plants that are spawned at the same time! </> 10 = 1 Plant | 100 = 10 Plants ...
 		Wait(0)
 		local weedCoords = GenerateWeedCoords()
 
-		ESX.Game.SpawnLocalObject('prop_weed_02', weedCoords, function(obj) 	-- prop_weed_02 bzzz_plants_weed_romance_bud_big
+		ESX.Game.SpawnLocalObject('prop_weed_02', weedCoords, function(obj) 					-- prop_weed_02 bzzz_plants_weed_romance_bud_big
 			PlaceObjectOnGroundProperly(obj)
 			FreezeEntityPosition(obj, true)
 
@@ -169,12 +169,12 @@ function GenerateWeedCoords()
 		local weedCoordX, weedCoordY
 
 		math.randomseed(GetGameTimer())
-		local modX = math.random(-1, 1)    								-- (-90, 90) Radius
+		local modX = math.random(-1, 1)    									-- (-90, 90) Radius
 
 		Wait(100)
 
 		math.randomseed(GetGameTimer())
-		local modY = math.random(-1, 1)									-- (-90, 90) Radius
+		local modY = math.random(-1, 1)										-- (-90, 90) Radius
 
 		weedCoordX = Config.CircleZones.WeedField.coords.x + modX
 		weedCoordY = Config.CircleZones.WeedField.coords.y + modY
